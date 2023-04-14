@@ -6,7 +6,7 @@
 
 ## The SAM code and pth file we used
 - [Code](https://pan.baidu.com/s/1BxPO4u4PfwOaq7-2-6v7xQ) (k4oi)
-- [PTH] (https://pan.baidu.com/s/1MDTTNs9X3FFEBww8ZPkl2w) (l9dp)
+- [PTH](https://pan.baidu.com/s/1MDTTNs9X3FFEBww8ZPkl2w) (l9dp)
 
 ## Thanks
 We thank lartpang (https://github.com/lartpang/PySODMetrics) and DengPingFan(https://github.com/DengPingFan) for their evaluation codes.
